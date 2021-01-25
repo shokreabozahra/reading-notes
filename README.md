@@ -13,9 +13,6 @@ As Carol Dweck said:
 >LOVE CHALLENGES, BE INTRIIGUED BY MISTAKES
 >ENJOY EFFORT AND KEEP ON LEARNING.
 
-## who am I?
-#### shokre abo zahra, 25 years old. graduated as a civil engeneer, looking to become a softwaredeveloper
-
 [ my github account link](https://github.com/shokreabozahra)
 
 
