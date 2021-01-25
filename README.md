@@ -6,7 +6,7 @@
 
 Course name  |  The URL
 -----------  |  -------
-Lab02b          [growth mindset](https://shokreabozahra.github.io/reading-notes/)
+Lab02b          [My page](https://shokreabozahra.github.io/reading-notes/)|
 
 
 
