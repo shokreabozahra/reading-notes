@@ -7,7 +7,8 @@
 Course name  |  The URL
 -----------  |  -------
 Lab02b       |   [My page](https://shokreabozahra.github.io/reading-notes/Lab02b)|
-
+-----------  |  ---------
+read03a      |   [link](/home/shokreabozahra/102/reading-notes/read03a.md)
 
 
 
